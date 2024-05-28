@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="image.png" alt="Alt Text">
-</p>
-<div align="center">
-
   <h1>PROJETO - AUTOMAÇÃO DE TESTES COM ROBOT FRAMEWORK - SELENIUM</h1>
    <h1>BugBank | O banco com bugs e falhas do seu jeito</h1>
 </div>
